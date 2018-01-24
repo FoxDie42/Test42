@@ -199,44 +199,8 @@ echo '</section>';
 	<div class="vide"></div><!--PERMET LE CLEAR BOTH !-->
 	</section>
 
-<!--SECTION CONTACT-->
-<section id="contact">
-	<h2>Contact</h2>
-		<article id="carte">
-		<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11035.85602751083!2d4.981612121643066!3d46.25094332873845!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xeee7bf95900d5da7!2sMenuiserie+Poncet!5e0!3m2!1sfr!2sfr!4v1504463208772" width="400" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
-			<p>
-				MENUISERIE PONCET - Vonnas<br/>
-				rue de la Tuilerie<br/>
-				01540 Vonnas<br/>
-				Tél. : 04 74 50 05 99<br/>
-				Fax : 04 74 50 25 03<br/>
-				Mail : menuiserie.poncet@orange.fr<br/>
-			</p>
-		</article>
 
-		<article id="formulaire">
-			<form action="mailto:Rick.s@outlook.fr" method="post" name="contact">
-						<div>Nom:</div>
-						<input name="nom"><br />
-						<div>Numéro:</div>
-						<input name="num"><br />
-						<div>Mail:</div>
-						<input name="mail"><br />
-						Votre message:<br />
-						<textarea name="message" rows="10" cols="90"></textarea><p>
-						<input type="submit" value="envoyer"></form>
-		</article>
-	<div class="vide"></div>
-</section>
 
-<!--FOOTER A REMPLIR AVEC LIENS DE MENTION LEGAL-->
-<footer>
-	<div id="connexion">
-			<form action="login.php" method="POST" name="formulaire">
-					<input type="submit" name="Envoyer" value="Connexion" />
-			</form>
-	</div>
-</footer>
 
 </body>
 </html>
